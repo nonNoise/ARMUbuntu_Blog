@@ -1,0 +1,2 @@
+# ARMUbuntu_Blog
+ARMコアでUbuntuを動かすまでの研究Blog
